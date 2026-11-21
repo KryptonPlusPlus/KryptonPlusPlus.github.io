@@ -1,0 +1,12 @@
+# Site settings
+title: m_blog
+author: Gabriel Ivo
+baseurl: ""
+url: ""
+github_username: KryptonPlusPlus
+linkedin_username: gabriel-bozi
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
